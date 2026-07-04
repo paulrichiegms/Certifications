@@ -37,6 +37,12 @@ Business and Programming Enthusiast
 
 6. [Corporate Finance II: Financing Investments and Managing Risk](https://www.coursera.org/account/accomplishments/certificate/F8SXZ7DMWBKJ)
 
+### GoogleCertifications
+
+1. [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1HY4CupE4rvHCscnCofdOMTOg8RRi9jcM/view?usp=sharing)
+
+2. [The Fundamentals of Digital Marketing](https://drive.google.com/file/d/1fm87A6jiYMLmgdZ6TcvnLZXT53juMLnQ/view?usp=sharing)
+
 ### Others
 
 1. [Behavioral Finance](https://www.coursera.org/account/accomplishments/certificate/B5DX6WHC7KJ8) : Duke University
